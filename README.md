@@ -5,4 +5,4 @@ Muitos colaboradores tem muita dificuldade em abrir um chamado quando necessári
 O app HelpDesk irá ajudar tanto os colaboradores de outros setores quando precisarem abrir um chamado, quanto os colaboradoes da T.I, para resolverem o problema.
 O app é muito simples e prático, facilitando e tornando mais produtiva a vida de todos.
 
-<strong>Projeto feito em JavaScript usando React Native e Expo.</string>
+<strong>Projeto feito em JavaScript usando React Native, Expo e Firebase.</string>
